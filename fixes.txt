@@ -1,4 +1,4 @@
 i am fix file, which will fix the bug.
 fix second bug
-
+add in bw
 fix message for pinkmode
