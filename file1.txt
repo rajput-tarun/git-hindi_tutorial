@@ -1,4 +1,6 @@
 this is file one for git course.
 i have nodified it.
 
+marketing section is added
+
 2025 is coming.
